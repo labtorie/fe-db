@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "95ad6ded44aeb5d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "ecfd81ee4c4c06f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8d88e72f4565d4d",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/app.json",
+                "bFile": ".obsidian/app.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: app.json"
+            }
+          },
+          {
+            "id": "b7e27e0d17e784c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Event loop задачки.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Event loop задачки"
+            }
+          },
+          {
+            "id": "b92b27cab3e9453d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Server Sent Events (SSE).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Server Sent Events (SSE)"
+            }
+          },
+          {
+            "id": "19e8035142bfae62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Готовлюсь к собесам/System Design.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "System Design"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4b575d415d44f631",
+    "type": "split",
+    "children": [
+      {
+        "id": "7960b5e97e7e1275",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2541ae523198e4bd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9d7b2a4f75eb1a93",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b5cf4594adaa3e95",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3e62ff1ee077e9ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "76bf46a789a904a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a4461288a5bf7d1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Готовлюсь к собесам/Пробелы по знаниям.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Пробелы по знаниям"
+            }
+          },
+          {
+            "id": "c7c3fe0dd815c175",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Готовлюсь к собесам/Пробелы по знаниям.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Пробелы по знаниям"
+            }
+          },
+          {
+            "id": "27ba7586601793ac",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "384d097235f76474",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Готовлюсь к собесам/Пробелы по знаниям.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Пробелы по знаниям"
+            }
+          },
+          {
+            "id": "03a2c8481c8b59a6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "f8d88e72f4565d4d",
+  "lastOpenFiles": [
+    "Готовлюсь к собесам/Пробелы по знаниям.md",
+    "Event loop задачки.md",
+    "Server Sent Events (SSE).md",
+    "Готовлюсь к собесам/Микрофронты Webpack Module Federation.md",
+    "Готовлюсь к собесам/System Design.md",
+    "Welcome.md",
+    "create a link.md",
+    "Готовлюсь к собесам"
+  ]
+}
