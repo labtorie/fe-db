@@ -13,26 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "README"
             }
           },
           {
             "id": "8b9c3668f4a83857",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "index.md",
-                "bFile": "index.md",
-                "aRef": ""
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: index"
+              "icon": "lucide-file",
+              "title": "README"
             }
           },
           {
@@ -211,12 +211,12 @@
   },
   "active": "8b9c3668f4a83857",
   "lastOpenFiles": [
+    "Server Sent Events (SSE).md",
+    "README.md",
     "От URL до страницы.md",
     "Рендеринг.md",
-    "index.md",
     "Микрофронты Webpack Module Federation.md",
     "System Design.md",
-    "Server Sent Events (SSE).md",
     "Event loop задачки.md",
     "Welcome.md",
     "create a link.md",

@@ -1,13 +1,16 @@
+База, по которой хочу закрыть пробелы в знаниях.
+
+Содержание:
 - Event Bus паттерн
 - [[Микрофронты Webpack Module Federation]]
 - TS Template Literal
 - Decorators
 - Web компоненты 
 - web tracer, jagger
-- SSR, CSR, SSG and so on
+- SSR, CSR, SSG, etc.
 - [[Event loop задачки]]
 - Garbage collector
-- MobX - почему не юзал
+- MobX
 - [[Server Sent Events (SSE)]]
 - [[System Design]]
 - [[От URL до страницы]]
