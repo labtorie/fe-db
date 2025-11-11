@@ -14,3 +14,4 @@
 - [[Server Sent Events (SSE)]]
 - [[System Design]]
 - [[От URL до страницы]]
+- [[Приколы из собеса в Яндекс]]
